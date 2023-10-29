@@ -1,0 +1,89 @@
+
+.contanier{
+    margin: auto;
+    width: 600px;
+    position: relative;
+    color: aliceblue;
+}
+.contanier img{
+width: 100%;
+}
+
+
+.pai{
+position: absolute;
+left: 30px;
+top:80px ;
+text-align: center;
+padding: 30px;
+}
+
+
+.filho{
+position: absolute;
+left: -0px;
+bottom: 50px;
+text-align: center;
+padding: 10px;
+}
+
+
+
+
+
+/*
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.wrapper{
+    height:100vh ;
+    width: 100vw;
+    position: relative;
+    padding-left: 100px;
+}
+
+section{
+
+    height: 100%;
+    width: 60%;
+position: relative;
+    
+}
+
+.img-logo {
+    
+    height: 300px;
+    display: inline-block;
+    top: 10%;
+    position: absolute;
+    border: none;
+}
+
+h2{
+    color: antiquewhite;
+    margin-top: 10%;
+right: 40px;
+
+}
+
+div{
+    
+    display: inline-block;
+    right: 20px;
+}
+
+button{
+    width: 130px;
+    height: 30px;
+    box-shadow: 0px 10px 24px;
+    border-radius: 30px;
+    font-size: 20px;
+    line-height: normal;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
